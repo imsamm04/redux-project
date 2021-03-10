@@ -19,7 +19,7 @@ const initialState = {
 };
 
 const todoReducer = (state = initialState, action) => {
-  return state
+  return state;
 };
 
 export default todoReducer;
